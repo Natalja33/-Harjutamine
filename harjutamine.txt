@@ -1,0 +1,1 @@
+If you are someone who doesn’t know how to use GitHub, then this blog is for you. Github is a web-based platform used for version control.
